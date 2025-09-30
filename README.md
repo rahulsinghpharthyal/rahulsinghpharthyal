@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preritnagpal&label=Profile%20views&color=0e75b6&style=flat" alt="preritnagpal" /> </p>
 
-- 🔭 I’m currently working on **Real-Time Chat Application**
+- 🔭 I’m currently working on **AI-ChatBot Application**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend and Backend**
 
-- 📫 How to reach me **preritnagpal1234@gmail.com**
+- 📫 How to reach me **rahulpharthyal04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
