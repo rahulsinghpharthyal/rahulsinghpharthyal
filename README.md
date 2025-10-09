@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [rahulsinghpharthyal]([https://rahulsinghpharthyal.netlify.app/](https://rahulsighpharthyal.vercel.app/))
+- 👨‍💻 All of my projects are available at [rahulsinghpharthyal](https://rahulsighpharthyal.vercel.app/)
 
 - 💬 Ask me about **Frontend Backend**
 
