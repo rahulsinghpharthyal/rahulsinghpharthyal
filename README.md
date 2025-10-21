@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **rahulpharthyal04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DVuAb1shw7XRF_MG55pr-uEmthDXhKC-/view?usp=drive_link](https://drive.google.com/file/d/1DVuAb1shw7XRF_MG55pr-uEmthDXhKC-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ApYUykCxeIeKvGpNXmI2SMpvcvp9CkuE/view?usp=drive_link](
+- https://drive.google.com/file/d/1ApYUykCxeIeKvGpNXmI2SMpvcvp9CkuE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
